@@ -8,7 +8,7 @@ A futuristic and minimalist Conky theme
   </a>
   
   <p align="center">
-  Another Conky Theme
+  ANURATI FUTURISTIC
     <br />
     <a href="https://github.com/Yisusdev2005/Anurati-Conky-Theme/releases/download/Conky/Anurati-Theme.zip"><strong>Install</strong></a>
     <br />
