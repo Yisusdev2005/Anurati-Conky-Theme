@@ -15,7 +15,7 @@ A futuristic and minimalist Conky theme
   </p>
 </p>
 
-<img align="center" src="https://github.com/Yisusdev2005/Anurati-Conky-Theme/blob/main/Captura%20desde%202025-10-16%2012-29-12.png" width="50%"/>
+<img align="center" src="https://github.com/Yisusdev2005/Anurati-Conky-Theme/blob/main/Preview.png" width="100%"/>
 
 > I was inspired by some of the themes I saw
 
