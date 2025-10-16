@@ -10,13 +10,13 @@ A futuristic and minimalist Conky theme
   <p align="center">
   Another Conky Theme
     <br />
-    <a href="https://github.com/Yisusdev2005/Conky-Theme/releases/download/conky-theme/conky-theme.tar.gz"><strong>Install</strong></a>
+    <a href="https://github.com/Yisusdev2005/Anurati-Conky-Theme/releases/download/Conky/Anurati-Theme.zip"><strong>Install</strong></a>
     <br />
   </p>
 </p>
 
 <img align="center" src="https://github.com/Yisusdev2005/Anurati-Conky-Theme/blob/main/Preview.png" width="100%"/>
 
-> I was inspired by some of the themes I saw
+> You can use Conky-Manager2 for change the size
 
 > I hope my customized theme caught your attention ;)
